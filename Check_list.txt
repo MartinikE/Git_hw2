@@ -1,0 +1,6 @@
+Environment:				
+Test date:				
+Tester:				
+№ | Checking | ER | Status | Comment |
+1
+2
