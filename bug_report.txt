@@ -1,12 +1,12 @@
-id 
+id
+Title 
 Summary  
 Environment
 Precondition
 Steps_to_reproduce
-Actual_result 
 Expected result
-Author  
-Version  
+Actual_result 
+Attachments  
 Severity 
 Priority 
 Status  
